@@ -306,7 +306,7 @@ html {
     margin: var(--nav-item-margin);
   }
 
-  .nav .nav-item-link {
+  .nav .nav-link {
     display: block;
     padding: 0.5rem 1rem;
   }
