@@ -4,9 +4,11 @@
   margin-left: $value;
   margin-right: $value;
 }
+
 body {
   @include marginlr(10px);
 }
+
 div {
   @include marginlr(15px);
 }
